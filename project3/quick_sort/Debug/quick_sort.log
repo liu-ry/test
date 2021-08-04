@@ -1,4 +1,0 @@
-﻿  main.cpp
-c:\users\liury-c\desktop\liury-c\project3\quick_sort\main.cpp(99): warning C4018: “<”: 有符号/无符号不匹配
-  quick_sort.vcxproj -> C:\Users\liury-c\Desktop\liury-c\project3\Debug\quick_sort.exe
-  quick_sort.vcxproj -> C:\Users\liury-c\Desktop\liury-c\project3\Debug\quick_sort.pdb (Partial PDB)

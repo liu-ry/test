@@ -1,4 +1,0 @@
-﻿  main.cpp
-c:\users\liury-c\desktop\liury-c\project2\keep decimals\main.cpp(12): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
-  Keep decimals.vcxproj -> C:\Users\liury-c\Desktop\liury-c\project2\Debug\Keep decimals.exe
-  Keep decimals.vcxproj -> C:\Users\liury-c\Desktop\liury-c\project2\Debug\Keep decimals.pdb (Partial PDB)
